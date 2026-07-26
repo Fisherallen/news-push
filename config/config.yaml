@@ -85,7 +85,74 @@ platforms:
     name: "MKT新闻"
   - id: "kaopu"
     name: "靠谱新闻"
+# === 化工 / 金属卷材表面处理 / 导热胶 ===
+- id: "henkel-steel-coil"
+  name: "Henkel 钢卷表面处理"
+  url: "https://next.henkel-adhesives.com/us/en/industries/metals/steel-coil.html"
 
+- id: "henkel-aluminum-coil"
+  name: "Henkel 铝卷表面处理"
+  url: "https://next.henkel-adhesives.com/us/en/industries/metals/aluminum-coil.html"
+
+- id: "chemetall-news"
+  name: "Chemetall 表面处理新闻"
+  url: "https://www.chemetall.com/global/en/media/news-releases.html"
+
+- id: "ad-metal-surface-treatment"
+  name: "AD Metal Surface Treatment 卷材处理"
+  url: "https://www.admetalsurfacetreatment.com/coil-industry-passivation-pre-treatment-toc-cleaner/"
+
+- id: "coil-coating-association"
+  name: "National Coil Coating Association"
+  url: "https://coilcoating.org/news/"
+
+- id: "ecca"
+  name: "European Coil Coating Association"
+  url: "https://www.prepaintedmetal.eu/news/"
+
+- id: "pfonline"
+  name: "Products Finishing 表面处理"
+  url: "https://www.pfonline.com/"
+
+- id: "coatings-world"
+  name: "Coatings World 涂料"
+  url: "https://www.coatingsworld.com/"
+
+- id: "pci-magazine"
+  name: "PCI Magazine 涂料胶粘剂"
+  url: "https://www.pcimag.com/"
+
+- id: "adhesives-magazine"
+  name: "Adhesives & Sealants Industry"
+  url: "https://www.adhesivesmag.com/"
+
+- id: "henkel-thermal-management"
+  name: "Henkel 导热材料"
+  url: "https://next.henkel-adhesives.com/us/en/applications/thermal-management-materials.html"
+
+- id: "parker-chomerics"
+  name: "Parker Chomerics 导热/屏蔽材料"
+  url: "https://www.parker.com/us/en/divisions/chomerics-division/news-events.html"
+
+- id: "electronics-cooling"
+  name: "Electronics Cooling 热管理"
+  url: "https://www.electronics-cooling.com/"
+
+- id: "chemical-processing"
+  name: "Chemical Processing"
+  url: "https://www.chemicalprocessing.com/"
+
+- id: "process-worldwide"
+  name: "PROCESS Worldwide"
+  url: "https://www.process-worldwide.com/"
+
+- id: "icis-chemicals"
+  name: "ICIS Chemicals"
+  url: "https://www.icis.com/explore/commodities/chemicals/"
+
+- id: "china-chemical-news"
+  name: "中化新网 / 中国化工报"
+  url: "https://www.ccin.com.cn/"
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
